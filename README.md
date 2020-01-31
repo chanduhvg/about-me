@@ -16,15 +16,39 @@ This Repo used for webapps course.After creating repo we can do different operat
 These are the different tools we are using 
 
 1. [Github Account](https://github.com/)
+
 If we want to sign in to the account we need credentials
 
 2. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 3. [Tortoise Git](https://tortoisegit.org/)
 
+This tool is very useful for doing things like commit,pull and push.
+
 4. Gitbash
 
 5. visual studio code
+
+## Languages
+
+* HTML
+
+* CSS
+
+* Java script
+
+## Recommended Resources
+
+* [JavaTPoint](https://www.javatpoint.com/)
+* [HTML(https://en.wikipedia.org/wiki/HTML)
+* [W3schools](https://www.w3schools.com/)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+
+
+
+
+
 
 
 
