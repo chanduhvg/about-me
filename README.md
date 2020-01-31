@@ -53,7 +53,7 @@ This is useful for writing code in local machine
 
 ![Picture of Jumanji](https://specials-images.forbesimg.com/imageserve/5deeed7d25ab5d000700adf2/0x800.jpg?cropX1=0&cropX2=566&cropY1=0&cropY2=755)
 
-(Image provided by[Forbes](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjChMeJy67nAhVBXawKHQvjDtYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fscottmendelson%2F2019%2F12%2F10%2Fjumanji-the-next-level-review-dwayne-johnson-kevin-hart-jack-black-karen-gillan-awkwafina-sony%2F&psig=AOvVaw0CaYw0ce8lXNf1jstu8yHt&ust=1580585789997258))
+Image provided by [Forbes](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjChMeJy67nAhVBXawKHQvjDtYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fscottmendelson%2F2019%2F12%2F10%2Fjumanji-the-next-level-review-dwayne-johnson-kevin-hart-jack-black-karen-gillan-awkwafina-sony%2F&psig=AOvVaw0CaYw0ce8lXNf1jstu8yHt&ust=1580585789997258)
 
 
 
