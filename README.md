@@ -29,6 +29,8 @@ This tool is very useful for doing things like commit,pull and push.
 
 5. visual studio code
 
+This is useful for writing code in local machine
+
 ## Languages
 
 * HTML
@@ -40,11 +42,18 @@ This tool is very useful for doing things like commit,pull and push.
 ## Recommended Resources
 
 * [JavaTPoint](https://www.javatpoint.com/)
-* [HTML(https://en.wikipedia.org/wiki/HTML)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
 * [W3schools](https://www.w3schools.com/)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
+## Contributors
 
+* Gopichand Bandarupalli
+* Graduation in Applied Computer Science at Northwest missouri state university
+
+![Picture of Jumanji](https://specials-images.forbesimg.com/imageserve/5deeed7d25ab5d000700adf2/0x800.jpg?cropX1=0&cropX2=566&cropY1=0&cropY2=755)
+
+(Image provided by[Google](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjChMeJy67nAhVBXawKHQvjDtYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fscottmendelson%2F2019%2F12%2F10%2Fjumanji-the-next-level-review-dwayne-johnson-kevin-hart-jack-black-karen-gillan-awkwafina-sony%2F&psig=AOvVaw0CaYw0ce8lXNf1jstu8yHt&ust=1580585789997258))
 
 
 
