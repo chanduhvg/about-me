@@ -1,6 +1,10 @@
 # about-me
 
-I am Gopichand Bandarupalli, ACS student at Northwest Missouri State university.
+I am Gopichand Bandarupalli, Graduate student at Northwest Missouri State university.
+
+## My Repository Links
+
+
 
 
 
