@@ -13,6 +13,9 @@ header{
     width: 55px;
     height: 55px;
 }
+.img2{
+    transform: rotate(180deg);
+}
 
 h1{
 
