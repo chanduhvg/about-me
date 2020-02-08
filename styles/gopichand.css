@@ -5,13 +5,16 @@ nav{
 header{
     vertical-align:middle;
 }
-img{
+.img1{
     border-radius: 50%;
     display: block;
     margin-right: auto;
     margin-left: auto;
     width: 55px;
     height: 55px;
+}
+.img2{
+    
 }
 h1{
 
