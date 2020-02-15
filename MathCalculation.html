@@ -49,7 +49,7 @@
 
                     <li class="nav-item">
                         <a class="nav-link" href="MathCalculation.html">MathCalculation</a>
-                        
+
 
                     </li>
                 </ul>
@@ -57,19 +57,27 @@
         </nav>
     </header>
     <!--/.Navbar-->
-    <form>
-        <h2>Converion of meters to centimeter</h2>
-        <input type="number" placeholder="m"><br><br>
-        <input type="number" placeholder="cm"> <br><br>
-    </form>
+        <form>
+            <h2>Converion of Meters to Centimeter</h2>
+            <h3>Enter Meters :</h3> <input id="c" type="text"></br></br>
+            <h3>centimeters :</h3><input type="text" id="d" readonly="true"><br><br>
 
+            <button type="button" id="convert" onclick="convertcentimeters()">Convert</button></br><br>
+        </form>
 
-    <script src="js/gopichand.js">
+    <script>
+        function convertcentimeters() {
+            if (document.getElementById("c").value != " ") {
+                var f = document.getElementById("c").value * 1 * 100;
+                document.getElementById("d").value = Math.round(f);
+            } else {
+                document.getElementById("d").value = "please enter the meters in above textbox";
+            }
+        }
     </script>
 
-    <script src="js/gopichand.js">
-    </script>
-    </script>
+
+
 
     <!-- JQuery -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
