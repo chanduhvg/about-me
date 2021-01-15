@@ -1,6 +1,21 @@
 # about-me
 
 I am Gopichand Bandarupalli, Graduate student at Northwest Missouri State university.
+Gopichand  - Section-44691- 01-and my instructor is Dr. Badami
+
+I am a  student of the fall semester 2020.I am pursuing my masters in Applied Computer Science from Northwest Missouri State University under the guidance of renowned faculty would let me extend my skills and ability to improve my technical skills. High quality of course work would provide me to involve and amplify research opportunities.
+
+My home country is India.I have done my entire schooling in Z.P.H School and my intermediate done in Sir Chaitanya Junior College.I finished my Bachelor of Technology in Electronics and Communication Engineering from Narasaraopeta Engineering College . After finishing my Bachelors, I learned technical courses such as Core Java and Database fundamentals. I have done Microsoft Certification on Database Fundamentals.My hobbies are playing Cricket,Chess and Badminton.
+
+I am looking forward to interacting with contemporary students, sharing my views and gaining knowledge from them. My only aim is to get associated with a progressive organization that lets me update my knowledge and skills according to latest trends such as Data science technologies like Machine Learning and Data Mining.
+
+My short term goal is to became a successful Software Engineer and my long term goal is to establish Organic farming by using Artificial intelligence.With the help of artificial intelligence i intended to do watering and provide essential nutrients to the plants.  Then i want to  bring up Organic food products into corporate world and  i want to setup my own brand new stores all over the world.
+
+This is my LinkedIn profile- https://www.linkedin.com/in/gopi-bandarupalli-1681b5109/ (Links to an external site.)
+
+Github link: https://github.com/chanduhvg (Links to an external site.)
+
+ 
 
 ## My Repository Links
 
